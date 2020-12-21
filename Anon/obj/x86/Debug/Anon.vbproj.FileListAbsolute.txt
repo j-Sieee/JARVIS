@@ -1,0 +1,28 @@
+C:\Users\Jessie\AppData\Local\Temporary Projects\Anon\bin\Debug\Anon.exe
+C:\Users\Jessie\AppData\Local\Temporary Projects\Anon\bin\Debug\Anon.pdb
+C:\Users\Jessie\AppData\Local\Temporary Projects\Anon\bin\Debug\Anon.xml
+C:\Users\Jessie\AppData\Local\Temporary Projects\Anon\obj\x86\Debug\Anon.Form1.resources
+C:\Users\Jessie\AppData\Local\Temporary Projects\Anon\obj\x86\Debug\Anon.Resources.resources
+C:\Users\Jessie\AppData\Local\Temporary Projects\Anon\obj\x86\Debug\Anon.vbproj.GenerateResource.Cache
+C:\Users\Jessie\AppData\Local\Temporary Projects\Anon\obj\x86\Debug\Anon.exe
+C:\Users\Jessie\AppData\Local\Temporary Projects\Anon\obj\x86\Debug\Anon.xml
+C:\Users\Jessie\AppData\Local\Temporary Projects\Anon\obj\x86\Debug\Anon.pdb
+C:\Users\Jessie\Documents\Visual Studio 2010\Projects\Anon\Anon\obj\x86\Debug\Anon.exe
+C:\Users\Jessie\Documents\Visual Studio 2010\Projects\Anon\Anon\obj\x86\Debug\Anon.xml
+C:\Users\Jessie\Documents\Visual Studio 2010\Projects\Anon\Anon\obj\x86\Debug\Anon.pdb
+C:\Users\Jessie\Documents\Visual Studio 2010\Projects\Anon\Anon\bin\Debug\Anon.exe
+C:\Users\Jessie\Documents\Visual Studio 2010\Projects\Anon\Anon\bin\Debug\Anon.pdb
+C:\Users\Jessie\Documents\Visual Studio 2010\Projects\Anon\Anon\bin\Debug\Anon.xml
+C:\Users\Jessie\Documents\Visual Studio 2010\Projects\Anon\Anon\obj\x86\Debug\Anon.MainForm.resources
+C:\Users\Jessie\Documents\Visual Studio 2010\Projects\Anon\Anon\obj\x86\Debug\Anon.Resources.resources
+C:\Users\Jessie\Documents\Visual Studio 2010\Projects\Anon\Anon\obj\x86\Debug\Anon.vbproj.GenerateResource.Cache
+C:\Users\Jessie\Documents\Visual Studio 2010\Projects\Anon\Anon\obj\x86\Debug\Anon.MyNotepadForm.resources
+C:\Users\Jessie\Documents\Visual Studio 2010\Projects\Anon\Anon\obj\x86\Debug\Anon.CalculatorForm.resources
+C:\Users\Jessie\Documents\Visual Studio 2010\Projects\Anon\Anon\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Jessie\Documents\Visual Studio 2010\Projects\Anon\Anon\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Jessie\Documents\Visual Studio 2010\Projects\Anon\Anon\obj\x86\Debug\Anon.vbproj.ResolveComReference.cache
+C:\Users\Jessie\Documents\Visual Studio 2010\Projects\Anon\Anon\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jessie\Documents\Visual Studio 2010\Projects\Anon\Anon\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jessie\Documents\Visual Studio 2010\Projects\Anon\Anon\obj\x86\Debug\Anon.SettingForm.resources
+C:\Users\Jessie\Documents\Visual Studio 2010\Projects\Anon\Anon\obj\x86\Debug\Anon.Text_To_Speech_Recognition.resources
+C:\Users\Jessie\Documents\Visual Studio 2010\Projects\Anon\Anon\obj\x86\Debug\Anon.UserInfo.resources

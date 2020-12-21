@@ -1,0 +1,24 @@
+Save
+Save This Text File
+Run Notepad
+Run Notepad Please
+Insert Sample Text
+Delete All Text
+Clear All Text
+Remove All Text
+Close Notepad
+Open Text File
+New Text File
+Select All Text
+Copy
+Copy That Text
+Cut
+Cut That Text
+Paste
+Paste The Text Now
+Show Font Dialog
+Select File
+Select Edit
+Select Help
+About This Notepad
+Undo It

@@ -1,0 +1,60 @@
+Hi
+Hello
+Hello Jarvis
+Jarvis
+Hows Life
+How You Doing
+How Are You
+Run C Plus Plus
+Run Visual Basic Please
+Run Visual Basic
+Run Vb.Net
+Run Mozilla Firefox
+Run Mozilla Firefox Please
+Open Mozilla Firefox
+Run Google Chrome
+Run Google Chrome Please
+Open Google Chrome
+What Time Is It
+What Day Is It
+What's Todays Date
+What's The Date
+What's My Name
+Who Are You
+I'm Not Talking To You
+I'm Not Talking To You Jarvis
+ComeBack
+Run Facebook
+Run Youtube
+Run Yahoo
+Run Twitter
+Run Manga Panda
+Run Google
+Get Out Of The Way
+Comeback
+Show Commands
+Hide Commands
+Play Music
+Play A Random Song
+Hide Music Library
+You Decide
+Next
+Next Song
+Play
+Resume Music
+Pause
+Mute
+UnMute
+Stop Music
+Turn Up
+Turn Down
+What Song Is Playing
+Go Back
+Previous Song
+Switch Window
+Close Window
+Good Morning Jarvis
+Good Afternoon Jarvis
+Good Evening Jarvis
+Run As Backround
+Run Text To Speech Recognition
